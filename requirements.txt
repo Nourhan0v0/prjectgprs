@@ -5,3 +5,4 @@ pydeck
 streamlit
 opencv-python-headless
 fitz
+opencv-python
