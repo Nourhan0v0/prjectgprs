@@ -30,4 +30,6 @@
   "forwardPorts": [
     8501
   ]
+},
+ "postCreateCommand": "pip install opencv-python"
 }
